@@ -58,7 +58,9 @@ The sum of the numbers 1 to 10 is : 55
 
 ## While Iteration Statement
 
-<iframe src="https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/While-Iteration-Statement/player?format=html5" width="640" height="360" allowFullScreen frameBorder="0" title="While Iteration Statement - Microsoft Channel 9 Video"></iframe>
+<div style="position: relative;overflow: hidden;padding-top: 56.25%;">
+<iframe src="https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/While-Iteration-Statement/player?format=html5" style="position: absolute; top: 0;left: 0; width: 100%; height: 100%;border: 0" allowFullScreen frameBorder="0" title="While Iteration Statement - Microsoft Channel 9 Video"></iframe>
+</div>
 
 ****
 
