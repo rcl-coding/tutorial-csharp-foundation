@@ -66,7 +66,9 @@ The code will write a line of text, 'Hello World', in the console window.
 - Close the console window when you are done.
 
 ****
+
 # Bob Tabor Videos
+
 ****
 
 > NOTE - These videos are a little dated, Visual Studio 2013/2015 is being used here. But the principles are basically the same.

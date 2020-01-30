@@ -212,7 +212,9 @@ The fourth number in the array is : 8
 ```
 
 ****
+
 # Bob Tabor Videos
+
 ****
 
 > NOTE - These videos are a little dated, Visual Studio 2013/2015 is being used here. But the principles are basically the same.

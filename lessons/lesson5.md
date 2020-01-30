@@ -45,6 +45,10 @@ The sum of the numbers 1 to 10 is : 55
 
 ****
 
+# Bob Tabor Videos
+
+****
+
 > NOTE - These videos are a little dated, Visual Studio 2013/2015 is being used here. But the principles are basically the same.
 
 *****
