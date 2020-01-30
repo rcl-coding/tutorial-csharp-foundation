@@ -67,11 +67,11 @@ The sum of the numbers 1 to 10 is : 55
 <script>
 var disqus_config = function () {
 this.page.url = 'https://csharpfoundation.tutorial.rclapp.com/lessons/lesson5.html';
-this.page.identifier = 'f02-05'; 
+this.page.identifier = 'a03-05'; 
 };
 (function() { 
 var d = document, s = d.createElement('script');
-s.src = 'https://.csharpfundation.tutorial.rclapp.com/embed.js';
+s.src = 'https://coding-skills-io.disqus.com/embed.js';
 s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();

@@ -253,7 +253,7 @@ The fourth number in the array is : 8
 <script>
 var disqus_config = function () {
 this.page.url = 'https://csharpfoundation.tutorial.rclapp.com/lessons/lesson2.html';
-this.page.identifier = 'f02-02'; 
+this.page.identifier = 'a03-02'; 
 };
 (function() { 
 var d = document, s = d.createElement('script');

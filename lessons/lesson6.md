@@ -61,11 +61,11 @@ Hey, Mary was found !
 <script>
 var disqus_config = function () {
 this.page.url = 'https://csharpfoundation.tutorial.rclapp.com/lessons/lesson6.html';
-this.page.identifier = 'f02-06'; 
+this.page.identifier = 'a03-06'; 
 };
 (function() { 
 var d = document, s = d.createElement('script');
-s.src = 'https://.csharpfundation.tutorial.rclapp.com/embed.js';
+s.src = 'https://coding-skills-io.disqus.com/embed.js';
 s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
