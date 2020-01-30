@@ -22,7 +22,7 @@ The following are some common comparators that can be used when you set up condi
 
 Type the following code :
 
-```csharp
+```java
 using System;
 
 namespace LearnCSharp
@@ -68,7 +68,9 @@ The amount 5 is not a dozen
 
 ## The If Decision Statement
 
-<iframe src="https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/The-if-Decision-Statement/player?format=html5" width="640" height="360" allowFullScreen frameBorder="0" title="The if Decision Statement - Microsoft Channel 9 Video"></iframe>
+<div style="position: relative;overflow: hidden;padding-top: 56.25%;">
+<iframe src="https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/The-if-Decision-Statement/player?format=html5" style="position: absolute; top: 0;left: 0; width: 100%; height: 100%;border: 0" allowFullScreen frameBorder="0" title="The if Decision Statement - Microsoft Channel 9 Video"></iframe>
+</div>
 
 ****
 

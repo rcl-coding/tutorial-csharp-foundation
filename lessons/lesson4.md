@@ -15,7 +15,7 @@ The **do** statement executes a statement repeatedly **while** a specified expre
 
 - Write the following code :
 
-```csharp
+```java
 using System;
 
 namespace LearnCSharp

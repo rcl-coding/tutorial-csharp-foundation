@@ -30,7 +30,7 @@ The **string** type is used for text.
 
 - Write the following code in the **Main** method :
 
-```csharp
+```java
 using System;
 
 namespace LearnCSharp
@@ -64,7 +64,7 @@ The **long** type has a greater range : -9,223,372,036,854,775,808 to 9,223,372,
 
 - Write the following code :
 
-```csharp
+```java
 using System;
 
 namespace LearnCSharp
@@ -95,7 +95,7 @@ The type **Decimal** is used to represent decimal numbers (eg: 3.14).
 
 - Write the following code :
 
-```csharp
+```java
 using System;
 
 namespace HelloWorld
@@ -126,7 +126,7 @@ The type **bool** is used to represent **true** or **false** (Boolean) values.
 
 - Write the following code :
 
-```csharp
+```java
 using System;
 
 namespace LearnCSharp
@@ -155,7 +155,7 @@ The type **DateTime** is used to represent Date and Time.
 
 - Write the following code :
 
-```csharp
+```java
 using System;
 
 namespace HelloWorld
@@ -186,7 +186,7 @@ You declare an array by specifying the type of its elements.
 
 Note the index starts from 0.
 
-```csharp
+```java
 using System;
 
 namespace LearnCSharp
@@ -223,25 +223,33 @@ The fourth number in the array is : 8
 
 ## Understanding Data Types and Variables
 
-<iframe src="https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Understanding-Data-Types-and-Variables/player?format=html5" width="640" height="360" allowFullScreen frameBorder="0" title="Understanding Data Types and Variables - Microsoft Channel 9 Video"></iframe>
+<div style="position: relative;overflow: hidden;padding-top: 56.25%;">
+<iframe src="https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Understanding-Data-Types-and-Variables/player?format=html5" style="position: absolute; top: 0;left: 0; width: 100%; height: 100%;border: 0" allowFullScreen frameBorder="0" title="Understanding Data Types and Variables - Microsoft Channel 9 Video"></iframe>
+</div>
 
 ****
 
 ## Working with Strings
 
-<iframe src="https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Working-with-Strings/player?format=html5" width="640" height="360" allowFullScreen frameBorder="0" title="Working with Strings - Microsoft Channel 9 Video"></iframe>
+<div style="position: relative;overflow: hidden;padding-top: 56.25%;">
+<iframe src="https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Working-with-Strings/player?format=html5" style="position: absolute; top: 0;left: 0; width: 100%; height: 100%;border: 0"  allowFullScreen frameBorder="0" title="Working with Strings - Microsoft Channel 9 Video"></iframe>
+</div>
 
 ****
 
 ## Working with Dates and Times
 
-<iframe src="https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Working-with-Dates-and-Times/player?format=html5" width="640" height="360" allowFullScreen frameBorder="0" title="Working with Dates and Times - Microsoft Channel 9 Video"></iframe>
+<div style="position: relative;overflow: hidden;padding-top: 56.25%;">
+<iframe src="https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Working-with-Dates-and-Times/player?format=html5" style="position: absolute; top: 0;left: 0; width: 100%; height: 100%;border: 0" allowFullScreen frameBorder="0" title="Working with Dates and Times - Microsoft Channel 9 Video"></iframe>
+</div>
 
 ****
 
 ## Understanding Arrays
 
-<iframe src="https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Understanding-Arrays/player?format=html5" width="640" height="360" allowFullScreen frameBorder="0" title="Understanding Arrays - Microsoft Channel 9 Video"></iframe>
+<div style="position: relative;overflow: hidden;padding-top: 56.25%;">
+<iframe src="https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Understanding-Arrays/player?format=html5" style="position: absolute; top: 0;left: 0; width: 100%; height: 100%;border: 0" allowFullScreen frameBorder="0" title="Understanding Arrays - Microsoft Channel 9 Video"></iframe>
+</div>
 
 ****
 

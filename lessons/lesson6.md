@@ -15,7 +15,7 @@ The **foreach** statement repeats statement(s) for each element in an array.
 
 - Write the following code :
 
-```csharp
+```java
 using System;
 
 namespace LearnCSharp
