@@ -19,7 +19,9 @@ You can download the IDE at the following link :
 ## What is C#
 [Courtesy Microsoft](https://dotnet.microsoft.com/learn/csharp)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NEF-Imm40RU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
+<iframe style="left:0; top:0; height:100%; width:100%; position:absolute;" src="https://www.youtube.com/embed/NEF-Imm40RU?autoplay=0&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ****
 
