@@ -33,7 +33,7 @@ description: C# Console Application
 
 In the code editor, you will see the following C# code:
 
-```csharp
+```java
 using System;
 
 namespace HelloWorld
@@ -77,7 +77,9 @@ The code will write a line of text, 'Hello World', in the console window.
 
 ## Creating Your First C# Programme
 
-<iframe src="https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Creating-Your-First-C-Program/player?format=html5" width="640" height="360" allowFullScreen frameBorder="0" title="Creating Your First C# Program - Microsoft Channel 9 Video"></iframe>
+<div style="position: relative;overflow: hidden;padding-top: 56.25%;">
+<iframe src="https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Creating-Your-First-C-Program/player?format=html5" style="position: absolute; top: 0;left: 0; width: 100%; height: 100%;border: 0" allowFullScreen frameBorder="0" title="Creating Your First C# Program - Microsoft Channel 9 Video"></iframe>
+</div>
 
 ****
 
