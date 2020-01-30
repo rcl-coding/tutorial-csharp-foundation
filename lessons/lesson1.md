@@ -66,6 +66,14 @@ The code will write a line of text, 'Hello World', in the console window.
 - Close the console window when you are done.
 
 ****
+## Bob Tabor Videos
+****
+
+> NOTE - These videos are a little dated, Visual Studio 2013/2015 is being used here. But the principles are basically the same.
+
+<iframe src="https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Creating-Your-First-C-Program/player" width="960" height="540" allowFullScreen frameBorder="0" title="Creating Your First C# Program - Microsoft Channel 9 Video"></iframe>
+
+****
 
 [![ad](../img/online-mentoring.jpg)](https://rclapp.com/mentors.html)
 
