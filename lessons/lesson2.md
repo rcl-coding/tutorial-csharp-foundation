@@ -219,17 +219,25 @@ The fourth number in the array is : 8
 
 *****
 
+## Understanding Data Types and Variables
+
 <iframe src="https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Understanding-Data-Types-and-Variables/player?format=html5" width="640" height="360" allowFullScreen frameBorder="0" title="Understanding Data Types and Variables - Microsoft Channel 9 Video"></iframe>
 
 ****
+
+## Working with Strings
 
 <iframe src="https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Working-with-Strings/player?format=html5" width="640" height="360" allowFullScreen frameBorder="0" title="Working with Strings - Microsoft Channel 9 Video"></iframe>
 
 ****
 
+## Working with Dates and Times
+
 <iframe src="https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Working-with-Dates-and-Times/player?format=html5" width="640" height="360" allowFullScreen frameBorder="0" title="Working with Dates and Times - Microsoft Channel 9 Video"></iframe>
 
 ****
+
+## Understanding Arrays
 
 <iframe src="https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Understanding-Arrays/player?format=html5" width="640" height="360" allowFullScreen frameBorder="0" title="Understanding Arrays - Microsoft Channel 9 Video"></iframe>
 
