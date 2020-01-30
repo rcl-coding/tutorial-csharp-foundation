@@ -57,6 +57,16 @@ The amount 5 is not a dozen
 ```
 
 ****
+# Bob Tabor Videos
+****
+
+> NOTE - These videos are a little dated, Visual Studio 2013/2015 is being used here. But the principles are basically the same.
+
+*****
+
+<iframe src="https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/The-if-Decision-Statement/player?format=html5" width="640" height="360" allowFullScreen frameBorder="0" title="The if Decision Statement - Microsoft Channel 9 Video"></iframe>
+
+****
 
 [![ad](../img/online-mentoring.jpg)](https://rclapp.com/mentors.html)
 

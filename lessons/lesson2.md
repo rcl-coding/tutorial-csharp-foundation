@@ -212,6 +212,28 @@ The fourth number in the array is : 8
 ```
 
 ****
+# Bob Tabor Videos
+****
+
+> NOTE - These videos are a little dated, Visual Studio 2013/2015 is being used here. But the principles are basically the same.
+
+*****
+
+<iframe src="https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Understanding-Data-Types-and-Variables/player?format=html5" width="640" height="360" allowFullScreen frameBorder="0" title="Understanding Data Types and Variables - Microsoft Channel 9 Video"></iframe>
+
+****
+
+<iframe src="https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Working-with-Strings/player?format=html5" width="640" height="360" allowFullScreen frameBorder="0" title="Working with Strings - Microsoft Channel 9 Video"></iframe>
+
+****
+
+<iframe src="https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Working-with-Dates-and-Times/player?format=html5" width="640" height="360" allowFullScreen frameBorder="0" title="Working with Dates and Times - Microsoft Channel 9 Video"></iframe>
+
+****
+
+<iframe src="https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Understanding-Arrays/player?format=html5" width="640" height="360" allowFullScreen frameBorder="0" title="Understanding Arrays - Microsoft Channel 9 Video"></iframe>
+
+****
 
 [![ad](../img/online-mentoring.jpg)](https://rclapp.com/mentors.html)
 
