@@ -73,7 +73,7 @@ The code will write a line of text, 'Hello World', in the console window.
 
 *****
 
-<iframe src="https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Creating-Your-First-C-Program/player&time=3m4s" width="640" height="360" allowFullScreen frameBorder="0" title="Creating Your First C# Program - Microsoft Channel 9 Video"></iframe>
+<iframe src="https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Creating-Your-First-C-Program/player?format=html5" width="640" height="360" allowFullScreen frameBorder="0" title="Creating Your First C# Program - Microsoft Channel 9 Video"></iframe>
 
 *****
 
