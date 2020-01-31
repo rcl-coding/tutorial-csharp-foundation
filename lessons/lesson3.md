@@ -60,6 +60,8 @@ The amount 5 is not a dozen
 
 # Bob Tabor Videos
 
+[Courtesy Microsoft and Bob Tabor](https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners)
+
 ****
 
 > NOTE - These videos are a little dated, Visual Studio 2013/2015 is being used here. But the principles are basically the same.
@@ -68,8 +70,8 @@ The amount 5 is not a dozen
 
 ## The If Decision Statement
 
-<div style="position: relative;overflow: hidden;padding-top: 56.25%;">
-<iframe src="https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/The-if-Decision-Statement/player?format=html5" style="position: absolute; top: 0;left: 0; width: 100%; height: 100%;border: 0" allowFullScreen frameBorder="0" title="The if Decision Statement - Microsoft Channel 9 Video"></iframe>
+<div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
+<iframe style="left:0; top:0; height:100%; width:100%; position:absolute;" src="https://www.youtube.com/embed/j8Emb14sorw?autoplay=0&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ****

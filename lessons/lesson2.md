@@ -215,6 +215,8 @@ The fourth number in the array is : 8
 
 # Bob Tabor Videos
 
+[Courtesy Microsoft and Bob Tabor](https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners)
+
 ****
 
 > NOTE - These videos are a little dated, Visual Studio 2013/2015 is being used here. But the principles are basically the same.
@@ -223,32 +225,32 @@ The fourth number in the array is : 8
 
 ## Understanding Data Types and Variables
 
-<div style="position: relative;overflow: hidden;padding-top: 56.25%;">
-<iframe src="https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Understanding-Data-Types-and-Variables/player?format=html5" style="position: absolute; top: 0;left: 0; width: 100%; height: 100%;border: 0" allowFullScreen frameBorder="0" title="Understanding Data Types and Variables - Microsoft Channel 9 Video"></iframe>
+<div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
+<iframe style="left:0; top:0; height:100%; width:100%; position:absolute;" src="https://www.youtube.com/embed/5Tquxkpj9DM?autoplay=0&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ****
 
 ## Working with Strings
 
-<div style="position: relative;overflow: hidden;padding-top: 56.25%;">
-<iframe src="https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Working-with-Strings/player?format=html5" style="position: absolute; top: 0;left: 0; width: 100%; height: 100%;border: 0"  allowFullScreen frameBorder="0" title="Working with Strings - Microsoft Channel 9 Video"></iframe>
+<div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
+<iframe style="left:0; top:0; height:100%; width:100%; position:absolute;"  src="https://www.youtube.com/embed/ZJs027Q1ReI?autoplay=0&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ****
 
 ## Working with Dates and Times
 
-<div style="position: relative;overflow: hidden;padding-top: 56.25%;">
-<iframe src="https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Working-with-Dates-and-Times/player?format=html5" style="position: absolute; top: 0;left: 0; width: 100%; height: 100%;border: 0" allowFullScreen frameBorder="0" title="Working with Dates and Times - Microsoft Channel 9 Video"></iframe>
+<div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
+<iframe style="left:0; top:0; height:100%; width:100%; position:absolute;" src="https://www.youtube.com/embed/mCMNP9yACWw?autoplay=0&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ****
 
 ## Understanding Arrays
 
-<div style="position: relative;overflow: hidden;padding-top: 56.25%;">
-<iframe src="https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Understanding-Arrays/player?format=html5" style="position: absolute; top: 0;left: 0; width: 100%; height: 100%;border: 0" allowFullScreen frameBorder="0" title="Understanding Arrays - Microsoft Channel 9 Video"></iframe>
+<div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
+<iframe style="left:0; top:0; height:100%; width:100%; position:absolute;" src="https://www.youtube.com/embed/a31-Qt9zjIM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ****
